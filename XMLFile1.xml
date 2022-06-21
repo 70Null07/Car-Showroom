@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CarShowroom>
+	<Car Brand="Toyota" Title="RAV4 Standart" ProducingCountry="Germany" Price="2 671 000" Image ="2022_Toyota_RAV4.jpg"/>
+	
+	<Car Brand="BMW" Title="M4 Competition" ProducingCountry="Italy" Price="14 380 000" Image ="2021_BMW_M4.jpg"/>
+
+</CarShowroom>
